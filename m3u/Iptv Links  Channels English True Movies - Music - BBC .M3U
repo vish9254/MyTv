@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1, Bbc 1
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bbc1-sat.mp4.m3u8
+
+#EXTINF:-1, Bbc2
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bbc2-sat.mp4.m3u8
+
+#EXTINF:-1, Itv1
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv1-sat.m3u8
+
+#EXTINF:-1, Channel 4
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/ch4-sat.m3u8
+
+#EXTINF:-1, Channel 5
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/ch5-sat.m3u8
+
+#EXTINF:-1, Bbc news
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bnews-sat.mp4.m3u8
+
+#EXTINF:-1, Skynews
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/skyn-sat.m3u8
+
+#EXTINF:-1, Cbbc
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/cbbc-sat.mp4.m3u8
+
+#EXTINF:-1, Cbeeb
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/cbeeb-sat.mp4.m3u8
+
+#EXTINF:-1, Itv2
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv2-sat.m3u8
+
+#EXTINF:-1, Itv3
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv3-sat.m3u8
+
+#EXTINF:-1, Citv
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/citv-sat.m3u8
+
+#EXTINF:-1, Itv4
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv4-sat.m3u8
+
+#EXTINF:-1, More4
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/more4-sat.m3u8
+
+#EXTINF:-1, E4
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/e4-sat.m3u8
+
+#EXTINF:-1, 5star
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/5star-sat.m3u8
+
+#EXTINF:-1, 5usa
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/5usa-sat.m3u8
+
+#EXTINF:-1, Film4
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/film4-sat.m3u8
+
+#EXTINF:-1, Horror1
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/horror1-sat.m3u8
+
+#EXTINF:-1, True Movies 1
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/tmov1-sat.m3u8
+
+#EXTINF:-1, True Movies 2
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/tmov2-sat.m3u8
+
+#EXTINF:-1, True Drama
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/trdma-sat.m3u8
+
+#EXTINF:-1, Trent
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/trent-sat.m3u8
+
+#EXTINF:-1, CBS
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/cbsact-sat.m3u8
+
+#EXTINF:-1, Cbreal
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/cbsreal-sat.m3u8
+
+#EXTINF:-1, Pick
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/pick-sat.m3u8
+
+#EXTINF:-1, Quest
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/quest.m3u8
+
+#EXTINF:-1, Challenge
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/challenge.m3u8
+
+#EXTINF:-1, 4 Seven
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/4seven.m3u8
+
+#EXTINF:-1, Yesterday
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/yday.m3u8
+
+#EXTINF:-1, Food network
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/food.m3u8
+
+#EXTINF:-1, Community Channel
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/comm-sat.m3u8
+
+#EXTINF:-1, Heat
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/heat-sat.m3u8
+
+#EXTINF:-1, Now Music
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/nowmus-sat.m3u8
+
+#EXTINF:-1, Viva
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/viva.m3u8
+
+#EXTINF:-1, 4 Music
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/4music.m3u8
+
+#EXTINF:-1, bbc News
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/1nir.m3u8

@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1,Abc usa
+http://198.27.94.105/hls/abc_1.m3u8
+
+#EXTINF:-1,AMC USA
+http://198.27.94.105/hls/amc_1.m3u8
+
+#EXTINF:-1,Cbs usa
+http://198.27.94.105/hls/cbs_1.m3u8
+
+#EXTINF:-1,CW usa
+http://198.27.94.105/hls/cw_1.m3u8
+
+#EXTINF:-1,HBO usa
+http://198.27.94.105/hls/hbo_1.m3u8
+
+#EXTINF:-1,USA hd
+http://198.27.94.105/hls/usa_1.m3u8
